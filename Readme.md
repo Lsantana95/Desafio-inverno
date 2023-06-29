@@ -22,15 +22,15 @@ Adicionei algumas mudanças no meu projeto final, como por exemplo, colocando um
 
 ## Seções:
 
--seção 1:
+seção 1:
 
 <img src="/img/section-1.png">
 
--seção 2:
+seção 2:
 
 <img src="/img/section-2.png">
 
--seção 3:
+seção 3:
 
 <img src="/img/section-3.png">
 
